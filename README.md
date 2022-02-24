@@ -1,16 +1,25 @@
-# shopping2
+# newsapp
 
-A new Flutter project.
+Ketu eshte kodi dhe apk per versionin Android te aplikacionit NewsApp.
+Ende nuk eshte konfiguruar per IOS.
+NewsApp eshte krijuar per perdorim personal. Merr lajme nga burime te ndryshme qe lejon perdoruesin te mos kaloje nga nje news provider ne tjetrin. 
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## LOG IN
 
-A few resources to get you started if this is your first Flutter project:
+Ne fillim do ju kerkohet te identifikoheni.
+Kete mund ta beni me kredencialet e meposhtme:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- email : test123@gmail.com
+- password : 123456
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Application
+
+Ne repon me kodin me siper gjendet nje file me emrin app-release.apk.
+Neqoftese deshironi te vezhgoni aplikacionin mund te ndiqni hapat e meposhtem.
+Duke klikuar tek app-release.apk nga SmartPhone juaj Android do te shkoni ne nje faqe tjeter ne te cilen duhet te shtypni butonin View Raw.
+Me pas apk e aplikacionit do te shkarkohet ne SmartPhone tuaj.
+
+
+- [App apk to download](https://github.com/onomdev/newsapp/blob/main/app-release.apk)
