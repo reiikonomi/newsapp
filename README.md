@@ -1,14 +1,14 @@
 # newsapp
 
-Ketu eshte kodi dhe apk per versionin Android te aplikacionit NewsApp.
-Ende nuk eshte konfiguruar per IOS.
-NewsApp eshte krijuar per perdorim personal. Merr lajme nga burime te ndryshme qe lejon perdoruesin te mos kaloje nga nje news provider ne tjetrin. 
+Here is the code for the News App developed on Flutter.
+Not configured for IOS!
+NewsApp is created for personal use. It gathers news from different sources and shows them in a compact and user friendly view. 
 
 
 ## LOG IN
 
-Ne fillim do ju kerkohet te identifikoheni.
-Kete mund ta beni me kredencialet e meposhtme:
+At first you'll be needet to log in.
+You can do that with the following credentials:
 
 - email : test123@gmail.com
 - password : 123456
@@ -16,10 +16,7 @@ Kete mund ta beni me kredencialet e meposhtme:
 
 ## Application
 
-Ne repon me kodin me siper gjendet nje file me emrin app-release.apk.
-Neqoftese deshironi te vezhgoni aplikacionin mund te ndiqni hapat e meposhtem.
-Duke klikuar tek app-release.apk nga SmartPhone juaj Android do te shkoni ne nje faqe tjeter ne te cilen duhet te shtypni butonin View Raw.
-Me pas apk e aplikacionit do te shkarkohet ne SmartPhone tuaj.
+In the repo there is a file by the name of app-release.apk. If you want to download and see the application follow the steps below. Click app-release.apk from your Android smartphone. After you get redirected pres the button View raw. Then the app should be ready to be installed.
 
 
 - [App apk to download](https://github.com/onomdev/newsapp/blob/main/app-release.apk)
